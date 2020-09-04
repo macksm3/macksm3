@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: you can edit this totally online!
 
 
 <!--
