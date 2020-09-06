@@ -3,6 +3,7 @@
 - ⚡ Fun fact: you can edit this totally online!
 
 [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/)
+[![License](https://img.shields.io/badge/license-unlicense-lightgray.svg)](https://unlicense.org)
 <!--
 **macksm3/macksm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
