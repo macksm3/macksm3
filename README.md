@@ -1,6 +1,7 @@
 ## Hi there 👋  Welcome to my Github.
 - 🌱 I’m currently learning full stack development.
-### I should be retiring not starting a new career.
+### I should be retiring not starting a new career. 
+#### Since I plan to live to 120, I am really just middle aged.
 - ⚡ Fun fact: you can edit this totally online!
 
 [![License](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org)
