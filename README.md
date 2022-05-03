@@ -1,5 +1,5 @@
 ## Hi there 👋  Welcome to my Github.
-- 🌱 I’m currently learning full stack development.
+- 🌱 I’m currently learning python programming.
 ### Always learning, always growing. 
 ##### Delivering above expectation is the driving motivation on projects with unique personal/customer needs, with a goal of providing the most efficient methods to accomplish any given task. Skilled at ergonomic user interface design and the logic to make it seamless. My experience as a photographer since the era of film cameras has taught me quite a lot about making images that appeal to the eye, a user interface must be the same way, it should look good, as well as being easy to navigate. 
 
